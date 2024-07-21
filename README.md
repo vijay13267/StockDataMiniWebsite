@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# StockDataMiniWebsite
+This is a website to see real time stock data. Built using Next.js, Database used MongoDB. Also used Redux. 
+
+![image](https://github.com/user-attachments/assets/cf2c8de0-1ab3-49f1-a738-4eefb4e95aba)
