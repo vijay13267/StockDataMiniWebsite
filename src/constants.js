@@ -1,0 +1,1 @@
+live_coin_watch_api_key = '4594e493-d682-4c33-9b67-a9fe52dd813e'
