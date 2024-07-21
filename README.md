@@ -29,12 +29,14 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # StockDataMiniWebsite
 This is a website to see real time stock data. Built using Next.js, Database used MongoDB. Also used Redux. 
 
+API Used: https://api.livecoinwatch.com/
+
 ![image](https://github.com/user-attachments/assets/cf2c8de0-1ab3-49f1-a738-4eefb4e95aba)
+
+![image](https://github.com/user-attachments/assets/663e3940-2a3a-4c88-8eb3-167ea767c0a1)
+
+![image](https://github.com/user-attachments/assets/b89da140-962b-4d62-9525-88b6a29c0a37)
+
